@@ -1,0 +1,6 @@
+{
+  "name": "GPT-2 Text Generation & Fine-Tuning Studio",
+  "description": "Interactive GPT-2 transformer text generation, dataset tokenization, custom fine-tuning simulator with live loss metrics, and Hugging Face PyTorch code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
